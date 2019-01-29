@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String message = "Hello Mugdho Babu";
+        String message = "Hello World";
         //CustomToast.getSuccessToast(MainActivity.this,message);
         //CustomToast.getErrorToast(MainActivity.this,message);
         //CustomToast.getInfoToast(MainActivity.this,message);
