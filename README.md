@@ -20,7 +20,7 @@ AND
 
 ```sh
 dependencies {
-   implementation 'com.github.SandipLayek27:CustomToast:1.0'
+   implementation 'com.github.SandipLayek27:CustomToast:1.1'
 }
 ```
 
